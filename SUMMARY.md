@@ -1,4 +1,17 @@
 # Summary
 
 * [Introduction](README.md)
-
+* [License](LICENSE.md)
+* [Contributing](CONTRIBUTING.md)
+* [Photo](S1_Photo/README.md)
+    * [Dan Margulis](S1_Photo/Dan-Margulis.md)
+    * [Joe Mcnally](S1_Photo/Joe-Mcnally.md)
+    * [MengDongZhai](S1_Photo/MengDongZhai.md)
+    * [Roberto Valenzuela](S1_Photo/Roberto-Valenzuela.md)
+* [Typsetting](S2_Typesetting/README.md)
+    * [jjhou](S2_Typesetting/jjhou.md)
+* [IT](S3_IT/README.md)
+    * [Jun Wu](S3_IT/Jun-Wu.md)
+    * [Peng Liu](S3_IT/Peng-Liu.md)
+    * [Michael Liao](S3_IT/Michael-Liao.md)
+* [History](S4_History/README.md)

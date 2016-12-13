@@ -1,0 +1,19 @@
+{
+    "title": "RoamWonder Reading Summary",
+    "author": "RoamWonder",
+    "description": "Record the summary of books readed and share with anybody who need it...",
+    "sytles": {
+
+    },
+    "plugins": [
+        "disqus"
+        ,"theme-comscore"
+    ],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "RoamWonder"
+        }
+    },
+    "links": {
+    }
+}

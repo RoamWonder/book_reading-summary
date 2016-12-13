@@ -1,9 +1,12 @@
 
 <!-- toc orderedList:1 depthFrom:1 depthTo:6 -->
 
-1. [Professional Photoshop](#professional-photoshop)
-1. [Photoshop LAB](#photoshop-lab)
-1. [Modern Photoshop Color Workflow](#modern-photoshop-color-workflow)
+1. [20061120_Professional Photoshop: The Classic Guide to Color Correction (5th Edition)](#20061120_professional-photoshop-the-classic-guide-to-color-correction-5th-edition)
+	1. [Review by RoamWonder](#review-by-roamwonder)
+1. [2006_Photoshop LAB Color: The Canyon Conundrum and Other Adventures in the Most Powerful Colorspace （Revised Edition）](#2006_photoshop-lab-color-the-canyon-conundrum-and-other-adventures-in-the-most-powerful-colorspace-revised-edition)
+	1. [Review by RoamWonder](#review-by-roamwonder-1)
+1. [20130224_Modern Photoshop Color Workflow: The Quartertone Quandary, the PPW, and Other Ideas for Speedy Image Enhancement](#20130224_modern-photoshop-color-workflow-the-quartertone-quandary-the-ppw-and-other-ideas-for-speedy-image-enhancement)
+	1. [Review by RoamWonder](#review-by-roamwonder-2)
 	1. [Retouch Workflow](#retouch-workflow)
 	1. [PPW Workflow](#ppw-workflow)
 	1. [PPW Action](#ppw-action)
@@ -11,11 +14,25 @@
 1. [Reference Standard Color Values](#reference-standard-color-values)
 
 <!-- tocstop -->
-# Professional Photoshop
+# 20061120_Professional Photoshop: The Classic Guide to Color Correction (5th Edition)
+><https://books.google.com/books/about/Professional_Photoshop.html?id=r8BFmKYZlIQC>
 
-# Photoshop LAB
+## Review by RoamWonder
+**Recommendation Index**: ⭐⭐⭐⭐⭐
 
-# Modern Photoshop Color Workflow
+# 2006_Photoshop LAB Color: The Canyon Conundrum and Other Adventures in the Most Powerful Colorspace （Revised Edition）
+><https://books.google.com/books?id=54RRAAAAMAAJ&q=Photoshop+LAB+Color&dq=Photoshop+LAB+Color&hl=en&sa=X&ved=0ahUKEwihlqjqovHQAhXJjVQKHcUkC0sQ6AEIKjAA>
+## Review by RoamWonder
+**Recommendation Index**: ⭐⭐⭐⭐⭐🌟
+
+
+# 20130224_Modern Photoshop Color Workflow: The Quartertone Quandary, the PPW, and Other Ideas for Speedy Image Enhancement
+><https://books.google.com/books?id=LTLRlgEACAAJ&dq=Modern+Photoshop+Color+Workflow&hl=en&sa=X&ved=0ahUKEwj0yo2Mo_HQAhWphVQKHWaWCAkQ6AEIHDAA>
+
+## Review by RoamWonder
+**Recommendation Index**: ⭐⭐⭐⭐⭐⭐
+
+
 ## Retouch Workflow
 One retouch job can be comprehended as a **"Retouch Workflow"**, and this workflow can be divide into some levels:
 
@@ -29,9 +46,9 @@ PPW's **"Decompositio Philosophy"** is process _**"Luminosity"**_ and _**"Color"
 
 1. Color
     1. Color Correction：
-        - RGB `Curve Adjustment Layer` in **_"RGB"_** **--->** CH3
+        - RGB `Curve Adjustment Layer` in _`RGB`_ mode **--->** CH3
     4. Color Range Define
-        - Define **"Black Point"** and **"White Point"** in "RGB Color Space" **--->** CH3\&CH4
+        - Define **"Black Point"** and **"White Point"** in _`RGB`_ mode **--->** CH3\&CH4
 2. Luminosity
     1. Luminosity Reallocation
         - Luminosity layer by **"Channel Mix"** (`Apply Image` or `Calculation`) **--->** CH4
@@ -57,8 +74,8 @@ PPW's **"Decompositio Philosophy"** is process _**"Luminosity"**_ and _**"Color"
     10. Define Color **"Black Point"** and **"White Point"**
         - ?? **--->** ALL-CH?
     11. Color ease
-        - PS **"Mark"** **--->** ALL-CH?
-        - PS **"Opacity"** **--->** ALL-CH?
+        - PS **_"Mark"_** **--->** ALL-CH?
+        - PS **_"Opacity"_** **--->** ALL-CH?
 4. Sharpen
 	1. Sharpen
 		- PS `USM Sharpen`
@@ -76,17 +93,17 @@ PPW's **"Decompositio Philosophy"** is process _**"Luminosity"**_ and _**"Color"
 
 ## PPW Action
 1. CB："Color Boost"
-    1. Input：整体色彩均衡（无色偏）
-    2. Process：LAB模式下的曲线调整图层**--->**
+    1. Input：Color balance and non color shift globally
+    2. Process：`Curve Adjustment Layer` in _`LAB`_ mode
     2. Output：
 2. HK：“Helmholtz-Kohlrausch”
     3. Input：
     4. Process：
-    5. Output：1/4色调～中间色调的中性色和近中性色被压暗
+    5. Output：Darken **"Neutral"** or **"Near Neutral"** Color between 1/4 and middle color tone.
 6. RGB曲线校色[^not-in-lab]：
-    1. Input：有色偏的图像，此图像应具备以下至少一个特征（可参考[Reference Standard Color Values](#reference-standard-color-values)）
-        1. 有明显理应为中性灰的物体：如灰墙
-        2. 有明显不正确色彩的物体：如红色的天空
+    1. Input：Image with color shift which at least has one characters list below: ( The right color value can see the [Reference Standard Color Values](#reference-standard-color-values) )
+        1. Neutral color in nature. example: gray wall.
+        2. Impossible or ugly color in nature. example: sky with red color
 
 [^not-in-lab]: Color correction in "RGB" mode
 
