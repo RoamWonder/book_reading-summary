@@ -1,5 +1,5 @@
 # Contributing
-It is very thanks for your contribution if you can correct or add some summary to my reading summary.
+It is very thanks for your contribution if you can correct or add some summary to my reading summary. It will help me and who read this **"Reading Summary"** so much.
 
 You can following the common github method as follows:
 
