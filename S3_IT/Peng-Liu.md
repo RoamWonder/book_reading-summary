@@ -8,6 +8,7 @@
 	1. [Important Situation and Background](#important-situation-and-background)
 	1. [Perface](#perface)
 	1. [Content](#content)
+	1. [Terms](#terms)
 
 <!-- tocstop -->
 
@@ -35,3 +36,5 @@
 +
 
 ## Content
+
+## Terms
