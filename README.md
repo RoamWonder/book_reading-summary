@@ -2,7 +2,7 @@
 
 ## About _**"this"**_ and _**"the"**_
 
-Most of time _**this**_ indicate talking about this _**"Reading Summary"**_, and _**the**_ indicate talking about the books which been summary.😃...
+Most of time _**"this"**_ indicate talking about this _**"Reading Summary"**_, and _**"the"**_ indicate talking about the books which been summary.😃...
 
 ## About this _"Reading Summary"_
 
