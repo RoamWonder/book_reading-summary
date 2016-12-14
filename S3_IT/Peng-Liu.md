@@ -1,7 +1,7 @@
 
 <!-- toc orderedList:1 depthFrom:1 depthTo:6 -->
 
-1. [About Author](#about-author)
+1. [About the Author](#about-the-author)
 1. [Computational Advertising](#computational-advertising)
 	1. [Basic Information](#basic-information)
 	1. [Review by RoamWonder](#review-by-roamwonder)
@@ -11,7 +11,7 @@
 
 <!-- tocstop -->
 
-# About Author
+# About the Author
 
 
 # Computational Advertising

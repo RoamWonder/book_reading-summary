@@ -1,6 +1,7 @@
 ######
 # Outputs
 _book/*
+
 book.epub
 book.pdf
 book.mobi
