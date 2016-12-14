@@ -15,3 +15,4 @@
     * [Peng Liu](S3_IT/Peng-Liu.md)
     * [Michael Liao](S3_IT/Michael-Liao.md)
 * [History](S4_History/README.md)
+    * [Jun Wu](S4_History/Jun-Wu.md)
