@@ -1,10 +1,10 @@
 
 <!-- toc orderedList:1 depthFrom:1 depthTo:6 -->
 
-1. [About Author](#about-author)
+1. [About the Author](#about-the-author)
 1. [Git Tutorial](#git-tutorial)
 	1. [About the Book](#about-the-book)
-	1. [Comment by RoamWonder](#comment-by-roamwonder)
+	1. [Review by RoamWonder](#review-by-roamwonder)
 	1. [Summary](#summary)
 
 <!-- tocstop -->

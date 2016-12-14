@@ -6,7 +6,7 @@
 
     },
     "plugins": [
-        "disqus", "theme-comscore", "katex", "github","uml"
+        "disqus", "theme-comscore", "katex", "github","uml","advanced-emoji"
     ],
     "pluginsConfig": {
         "disqus": {
