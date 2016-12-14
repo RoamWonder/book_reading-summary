@@ -6,14 +6,20 @@
 
     },
     "plugins": [
-        "disqus"
-        ,"theme-comscore"
+        "disqus", "theme-comscore", "katex", "github", "tbfed-pagefooter","uml"
     ],
     "pluginsConfig": {
         "disqus": {
-            "shortName": "RoamWonder"
+            "shortName": "arws-rs"
+        },
+        "github": {
+            "url": "https://github.com/RoamWonder/book_reading-summary"
+        },
+        "tbfed-pagefooter": {
+            "copyright": "BY-NC-SA, BY RoamWonder",
+            "modify_label": "Last Modified：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
         }
     },
-    "links": {
-    }
+    "links": {}
 }

@@ -1,39 +1,61 @@
 
 <!-- toc orderedList:1 depthFrom:1 depthTo:6 -->
 
-1. [20061120_Professional Photoshop: The Classic Guide to Color Correction (5th Edition)](#20061120_professional-photoshop-the-classic-guide-to-color-correction-5th-edition)
+1. [Professional Photoshop: The Classic Guide to Color Correction (5th Edition)](#professional-photoshop-the-classic-guide-to-color-correction-5th-edition)
+	1. [Basic Information](#basic-information)
 	1. [Review by RoamWonder](#review-by-roamwonder)
-1. [2006_Photoshop LAB Color: The Canyon Conundrum and Other Adventures in the Most Powerful Colorspace （Revised Edition）](#2006_photoshop-lab-color-the-canyon-conundrum-and-other-adventures-in-the-most-powerful-colorspace-revised-edition)
+1. [Photoshop LAB Color: The Canyon Conundrum and Other Adventures in the Most Powerful Colorspace （Revised Edition）](#photoshop-lab-color-the-canyon-conundrum-and-other-adventures-in-the-most-powerful-colorspace-revised-edition)
+	1. [Basic Information](#basic-information-1)
 	1. [Review by RoamWonder](#review-by-roamwonder-1)
-1. [20130224_Modern Photoshop Color Workflow: The Quartertone Quandary, the PPW, and Other Ideas for Speedy Image Enhancement](#20130224_modern-photoshop-color-workflow-the-quartertone-quandary-the-ppw-and-other-ideas-for-speedy-image-enhancement)
+1. [Modern Photoshop Color Workflow: The Quartertone Quandary, the PPW, and Other Ideas for Speedy Image Enhancement](#modern-photoshop-color-workflow-the-quartertone-quandary-the-ppw-and-other-ideas-for-speedy-image-enhancement)
+	1. [Basic Information](#basic-information-2)
 	1. [Review by RoamWonder](#review-by-roamwonder-2)
-	1. [Retouch Workflow](#retouch-workflow)
+	1. [Generally Retouch Workflow](#generally-retouch-workflow)
 	1. [PPW Workflow](#ppw-workflow)
 	1. [PPW Action](#ppw-action)
 	1. [ACR and PS](#acr-and-ps)
 1. [Reference Standard Color Values](#reference-standard-color-values)
 
 <!-- tocstop -->
-# 20061120_Professional Photoshop: The Classic Guide to Color Correction (5th Edition)
+# Professional Photoshop: The Classic Guide to Color Correction (5th Edition)
+## Basic Information
 ><https://books.google.com/books/about/Professional_Photoshop.html?id=r8BFmKYZlIQC>
 
-## Review by RoamWonder
-**Recommendation Index**: ⭐⭐⭐⭐⭐
+**Publish**:
++ English: Peachpit Press, Nov 20, 2006
++ Chinese:
 
-# 2006_Photoshop LAB Color: The Canyon Conundrum and Other Adventures in the Most Powerful Colorspace （Revised Edition）
+
+## Review by RoamWonder
+**Recommendation**: ⭐⭐⭐⭐⭐
+
+# Photoshop LAB Color: The Canyon Conundrum and Other Adventures in the Most Powerful Colorspace （Revised Edition）
+## Basic Information
 ><https://books.google.com/books?id=54RRAAAAMAAJ&q=Photoshop+LAB+Color&dq=Photoshop+LAB+Color&hl=en&sa=X&ved=0ahUKEwihlqjqovHQAhXJjVQKHcUkC0sQ6AEIKjAA>
+
+**Publish**
++ English: Peachpit Press, 2006
++ Chinese:
+
+
 ## Review by RoamWonder
-**Recommendation Index**: ⭐⭐⭐⭐⭐🌟
+**Recommendation**: ⭐⭐⭐⭐⭐
 
 
-# 20130224_Modern Photoshop Color Workflow: The Quartertone Quandary, the PPW, and Other Ideas for Speedy Image Enhancement
+# Modern Photoshop Color Workflow: The Quartertone Quandary, the PPW, and Other Ideas for Speedy Image Enhancement
+
+## Basic Information
 ><https://books.google.com/books?id=LTLRlgEACAAJ&dq=Modern+Photoshop+Color+Workflow&hl=en&sa=X&ved=0ahUKEwj0yo2Mo_HQAhWphVQKHWaWCAkQ6AEIHDAA>
 
+**Publish**
++ English: Feb 24, 2013
++ Chinese: 
+
 ## Review by RoamWonder
-**Recommendation Index**: ⭐⭐⭐⭐⭐⭐
+**Recommendation**: ⭐⭐⭐⭐⭐🌟
 
 
-## Retouch Workflow
+## Generally Retouch Workflow
 One retouch job can be comprehended as a **"Retouch Workflow"**, and this workflow can be divide into some levels:
 
 1. _**Workflow Node**_:
