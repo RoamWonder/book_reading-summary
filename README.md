@@ -1,6 +1,6 @@
 # Introduction
 
-## About _**this**_ and _**the**_
+## About _**"this"**_ and _**"the"**_
 
 Most of time _**this**_ indicate talking about this _**"Reading Summary"**_, and _**the**_ indicate talking about the books which been summary.😃...
 
@@ -16,7 +16,7 @@ Books are classify and summary first by **Field** and then by **Author**.
 
 The summary will write in English no matter the books are publish in which language.
 
-For the English is not RoamWonder's mother tongue, there will be some uncorrect syntax or vocabulary, I hope you can assist me with [Contributing](CONTRIBUTING.md). Thank you...
+For the English is not RoamWonder's mother tongue, there will be some uncorrect syntax or vocabulary, I hope you can assist me with [Contributing](CONTRIBUTING.md). Thank you so much...
 
 ## About the Books
 
