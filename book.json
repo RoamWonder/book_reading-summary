@@ -6,7 +6,7 @@
 
     },
     "plugins": [
-        "disqus", "theme-comscore", "katex", "github", "tbfed-pagefooter","uml"
+        "disqus", "theme-comscore", "katex", "github","uml"
     ],
     "pluginsConfig": {
         "disqus": {
@@ -14,11 +14,6 @@
         },
         "github": {
             "url": "https://github.com/RoamWonder/book_reading-summary"
-        },
-        "tbfed-pagefooter": {
-            "copyright": "BY-NC-SA, BY RoamWonder",
-            "modify_label": "Last Modified：",
-            "modify_format": "YYYY-MM-DD HH:mm:ss"
         }
     },
     "links": {}

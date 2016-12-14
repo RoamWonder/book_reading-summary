@@ -1,11 +1,16 @@
 ######
 # Outputs
+_book/*
 book.epub
 book.pdf
 book.mobi
 
 # gitbook plugins
 node_modules/*
+
+# uml plugins output
+assets/images/uml/*
+
 ######
 
 ######

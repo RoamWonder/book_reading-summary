@@ -1,6 +1,7 @@
 
 <!-- toc orderedList:1 depthFrom:1 depthTo:6 -->
 
+1. [About the Author](#about-the-author)
 1. [Professional Photoshop: The Classic Guide to Color Correction (5th Edition)](#professional-photoshop-the-classic-guide-to-color-correction-5th-edition)
 	1. [Basic Information](#basic-information)
 	1. [Review by RoamWonder](#review-by-roamwonder)
@@ -52,7 +53,7 @@
 
 **Publish**
 + English: Feb 24, 2013
-+ Chinese: 
++ Chinese:
 
 ## Review by RoamWonder
 **Recommendation**: ⭐⭐⭐⭐⭐🌟
