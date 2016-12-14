@@ -10,13 +10,13 @@
 <!-- tocstop -->
 
 
-# About Author
+# About the Author
 MichaelLiao(廖雪峰, <http://www.liaoxuefeng.com/>)
 
 # Git Tutorial
 ## About the Book
 Git Tutorial(Git教程) is a lesson which pulish in the author's offical website.
 
-## Comment by RoamWonder
+## Review by RoamWonder
 
 ## Summary

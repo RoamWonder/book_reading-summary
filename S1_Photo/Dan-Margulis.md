@@ -17,6 +17,9 @@
 1. [Reference Standard Color Values](#reference-standard-color-values)
 
 <!-- tocstop -->
+
+# About the Author
+
 # Professional Photoshop: The Classic Guide to Color Correction (5th Edition)
 ## Basic Information
 ><https://books.google.com/books/about/Professional_Photoshop.html?id=r8BFmKYZlIQC>
