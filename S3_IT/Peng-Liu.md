@@ -6,9 +6,8 @@
 	1. [Basic Information](#basic-information)
 	1. [Review by RoamWonder](#review-by-roamwonder)
 	1. [Important Situation and Background](#important-situation-and-background)
-	1. [Perface](#perface)
-	1. [Content](#content)
-	1. [Terms](#terms)
+	1. [Concepts & Terms](#concepts-terms)
+	1. [Summary](#summary)
 
 <!-- tocstop -->
 
@@ -31,10 +30,9 @@
 + Sep. - Dec. 2011, Andrei Broder, the chief scientist of Yahoo!, had open the first computational advertising course _**"Introduction to Computational Advertising"**_ in Stanford University, and in this course had first consider the computional advertising as a specialized subject.
 + 2015, Big Data and Data Monetizing became more and more popular.
 
-## Perface
+## Concepts & Terms
+
+
+## Summary
 + **Traffic Monetizing** and **Data Monetizing** are the core of business model in many internet corporation.
 +
-
-## Content
-
-## Terms

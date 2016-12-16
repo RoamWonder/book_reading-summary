@@ -11,16 +11,19 @@
 1. [Modern Photoshop Color Workflow: The Quartertone Quandary, the PPW, and Other Ideas for Speedy Image Enhancement](#modern-photoshop-color-workflow-the-quartertone-quandary-the-ppw-and-other-ideas-for-speedy-image-enhancement)
 	1. [Basic Information](#basic-information-2)
 	1. [Review by RoamWonder](#review-by-roamwonder-2)
+	1. [Meta Question](#meta-question)
 	1. [Generally Retouch Workflow](#generally-retouch-workflow)
 	1. [PPW Workflow](#ppw-workflow)
 	1. [PPW Action](#ppw-action)
 	1. [ACR and PS](#acr-and-ps)
-1. [Reference Standard Color Values](#reference-standard-color-values)
+1. [Reference Color Values](#reference-color-values)
 
 <!-- tocstop -->
 
 # About the Author
+Dan Margulis
 
+---
 # Professional Photoshop: The Classic Guide to Color Correction (5th Edition)
 ## Basic Information
 ><https://books.google.com/books/about/Professional_Photoshop.html?id=r8BFmKYZlIQC>
@@ -33,6 +36,8 @@
 ## Review by RoamWonder
 **Recommendation**: ⭐⭐⭐⭐⭐
 
+
+---
 # Photoshop LAB Color: The Canyon Conundrum and Other Adventures in the Most Powerful Colorspace （Revised Edition）
 ## Basic Information
 ><https://books.google.com/books?id=54RRAAAAMAAJ&q=Photoshop+LAB+Color&dq=Photoshop+LAB+Color&hl=en&sa=X&ved=0ahUKEwihlqjqovHQAhXJjVQKHcUkC0sQ6AEIKjAA>
@@ -46,6 +51,7 @@
 **Recommendation**: ⭐⭐⭐⭐⭐
 
 
+---
 # Modern Photoshop Color Workflow: The Quartertone Quandary, the PPW, and Other Ideas for Speedy Image Enhancement
 
 ## Basic Information
@@ -58,6 +64,36 @@
 ## Review by RoamWonder
 **Recommendation**: ⭐⭐⭐⭐⭐🌟
 
+## Meta Question
++ Who write the book?
+```
+
+```
+
++ Who will be the reader?
+```
+
+```
+
++ Why & When the author write the book? ( In another way **--->** what is the background of the book? )
+```
+
+```
+
++ Where is the materials of the book?
+```
+
+```
+
++ What is the book major focus in?
+```
+The book is focus in how to quickly and
+```
+
++ How the book is construct?
+```
+
+```
 
 ## Generally Retouch Workflow
 One retouch job can be comprehended as a **"Retouch Workflow"**, and this workflow can be divide into some levels:
@@ -126,7 +162,7 @@ PPW's **"Decompositio Philosophy"** is process _**"Luminosity"**_ and _**"Color"
     3. Input：
     4. Process：
     5. Output：Darken **"Neutral"** or **"Near Neutral"** Color between 1/4 and middle color tone.
-6. RGB曲线校色[^not-in-lab]：
+6. RGB Curve[^not-in-lab]：
     1. Input：Image with color shift which at least has one characters list below: ( The right color value can see the [Reference Standard Color Values](#reference-standard-color-values) )
         1. Neutral color in nature. example: gray wall.
         2. Impossible or ugly color in nature. example: sky with red color
@@ -136,7 +172,8 @@ PPW's **"Decompositio Philosophy"** is process _**"Luminosity"**_ and _**"Color"
 ## ACR and PS
 
 
-# Reference Standard Color Values
-|Name|RGB|CMYK|LAB|HSB|
-|--|--|--|--|--|
-|Asian Skin Tone|rgb(213,172,129)|cmyk(17%,32%,53%,3%)|--|--|
+# Reference Color Values
+|Name|Describe|Values|
+|--|--|--|
+|Asian Skin Tone||,rgb(213,172,129),cmyk(17%,32%,53%,3%)|
+|Sky||lab([X],[3,5],[-X,0])|
