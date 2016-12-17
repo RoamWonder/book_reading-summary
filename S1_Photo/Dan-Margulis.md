@@ -22,10 +22,12 @@
 <!-- tocstop -->
 
 # About the Author & His Books
->Dan Margulis was one of the first three individuals—and the only writer—to be named as a member of the Photoshop Hall of Fame. In announcing his election, the National Association of Photoshop Professionals said, “Dan’s ability to reduce complicated concepts to words that users can understand and his insistence on dealing with real-world relevance have made him today’s most influential voice in color reproduction.” Dan’s 2006 best-seller, Photoshop LAB Color, revolutionized workflows. Channels expert David Biedny called Photoshop LAB Color “probably the most important Photoshop book ever written.”
->Dan Margulis is considered the world's leading authority on digital color correction. In 2001, he was one of the first three people, and the only educator, named to the Photoshop Hall of Fame.
+>- Dan Margulis was one of the first three individuals—and the only writer—to be named as a member of the Photoshop Hall of Fame. In announcing his election, the National Association of Photoshop Professionals said, “Dan’s ability to reduce complicated concepts to words that users can understand and his insistence on dealing with real-world relevance have made him today’s most influential voice in color reproduction.” Dan’s 2006 best-seller, Photoshop LAB Color, revolutionized workflows. Channels expert David Biedny called Photoshop LAB Color “probably the most important Photoshop book ever written.”
+>- Dan Margulis is considered the world's leading authority on digital color correction. In 2001, he was one of the first three people, and the only educator, named to the Photoshop Hall of Fame.
 
-We have been confused if Dan Margulis's books really put into "Photoshop Retouch Sacred" like them published in Chinese version?
+Dan Margulis has published **Three Serials** books: **_"Professional Photoshop"_**, **_"Photoshop LAB Color"_** and **_"Modern Photoshop Color Workflow"_**.
+
+We have been confused if Dan Margulis's the **Three Serials** books really put into **One "Photoshop Retouch Sacred Serial"** ( “Photoshop修色圣典”系列 ) like them published in Chinese version?
 
 ---
 # Professional Photoshop: The Classic Guide to Color Correction (5th Edition)
@@ -64,8 +66,9 @@ We have been confused if Dan Margulis's books really put into "Photoshop Retouch
 # Modern Photoshop Color Workflow: The Quartertone Quandary, the PPW, and Other Ideas for Speedy Image Enhancement
 ## Review by RoamWonder
 **_Recommendation_**: ⭐⭐⭐⭐⭐🌟
+
 **_Review_**:
-**_RoamWonder_** are not very agree with the author when he talking about "ACR".
+- **_RoamWonder_** are not very agree with the author when he talking about "ACR".
 
 ## Basic Information & Abstract
 ><https://books.google.com/books?id=LTLRlgEACAAJ&dq=Modern+Photoshop+Color+Workflow&hl=en&sa=X&ved=0ahUKEwj0yo2Mo_HQAhWphVQKHWaWCAkQ6AEIHDAA>
@@ -85,7 +88,6 @@ We have been confused if Dan Margulis's books really put into "Photoshop Retouch
 + MMM, the **_M_**odern **_M_**an from **_M_**ars
 + H-K, **_H_**elmholtz - **_K_**ohlrausch: When the **_Gray_** color **Darker_**, the picture will be more **_Stereoscopic_**.
 + Bigger Hammer: Strength the **_contrast_** in **_Highlight & Shadow_**
-+
 
 ## Meta Question
 + Who write the book?
@@ -106,18 +108,17 @@ We have been confused if Dan Margulis's books really put into "Photoshop Retouch
 >3. The **_PPW_** in Ledet Website: <http://www.ledet.com/margulis/ppw>
 
 + What is the book **_major focus in_** and what is the book **_apply to_**?
->The book is focus in how to quickly make picture beauty with automation ( in 1~5 minutes with the _PPW_ panel ).
->The book is focus in **_Global Retouch_**, not **_Local Retouch_**.
-
->The book's **_Theory_** is apply to every picture, but **_PPW_** itself is best apply to these picture
->- Picture with full _Depth Of Field_.
->- Landscape, Postcard ( Means the human is **_Not the Subject_** in picture,in other word, **_PPW_** is not doing well in **_Portrait_**)
+>1. The book is focus in how to quickly make picture beauty with automation ( in 1~5 minutes with the _PPW_ panel ).
+>2. The book is focus in **_Global Retouch_**, not **_Local Retouch_**.
+>3. The book's **_Theory_** is apply to every picture, but **_PPW_** itself is best apply to these picture.
+>>	1. Picture with full _Depth Of Field_.
+>>	2. Landscape, Postcard ( Means the human is **_Not the Subject_** in picture,in other word, **_PPW_** is not doing well in **_Portrait_**)
 
 + How the book is construct?
->The book
->Each chapter divide into **_Two Part_**:
->- First Part: Talking about **_How to Use_**
->- Second Part: Talking about **_Why to Use_** or **_Advanced Usage_**
+>1. The book
+>2. Each chapter divide into **_Two Part_**:
+>>1. First Part: Talking about **_How to Use_**
+>>2. Second Part: Talking about **_Why to Use_** or **_Advanced Usage_**
 
 ## Opinion Abstracted and Outline
 1. The **_First_** is **_which_** effect you want, the **_Second_** is **_How_** to reach ( or **_What_** to do ). Many **_Amateurs_** know the **_First_** and unkonw the **_Second_**. Many **_Experts_** are the opposed.
@@ -168,7 +169,7 @@ PPW's **"Decompositio Philosophy"** is process _**"Luminosity"**_ and _**"Color"
     10. Define Color **"Black Point"** and **"White Point"**
         - ?? **--->** ALL-CH?
 	11. Define Luminocity **"Black Point"** and **"White Point"**
-		- Curve end-points by `Curve Adjustment Layer` in _`LAB`_ mode ( **_"L"_** channel ) 
+		- Curve end-points by `Curve Adjustment Layer` in _`LAB`_ mode ( **_"L"_** channel )
     11. Color ease
         - PS **_"Mark"_** **--->** ALL-CH?
         - PS **_"Opacity"_** **--->** ALL-CH?
