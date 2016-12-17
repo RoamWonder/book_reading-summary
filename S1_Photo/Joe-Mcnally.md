@@ -2,7 +2,8 @@
 <!-- toc orderedList:1 depthFrom:1 depthTo:6 -->
 
 1. [About Author](#about-author)
-1. [Sketching Light **--->** An Illustrated Tour of the Possibilities of Flash](#sketching-light-an-illustrated-tour-of-the-possibilities-of-flash)
+1. [The Moment It Clicks: Photography Secrets from One of the World's Top Shooters](#the-moment-it-clicks-photography-secrets-from-one-of-the-worlds-top-shooters)
+1. [Sketching Light: An Illustrated Tour of the Possibilities of Flash](#sketching-light-an-illustrated-tour-of-the-possibilities-of-flash)
 
 <!-- tocstop -->
 
@@ -38,5 +39,7 @@
 26. 作者代表作
     27. "Faces of Ground Zero"
 
+# The Moment It Clicks: Photography Secrets from One of the World's Top Shooters
 
-# Sketching Light **--->** An Illustrated Tour of the Possibilities of Flash
+
+# Sketching Light: An Illustrated Tour of the Possibilities of Flash
