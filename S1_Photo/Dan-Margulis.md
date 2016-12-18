@@ -45,8 +45,8 @@ We have been confused if Dan Margulis's the **Three Serials** books really put i
 + Chinese:
 
 **_Keypoints_**:
-+ Ten channels in a image.
-+ The strengths and weaknesses of CMYK, LAB and RGB, and when to use each one.
++ **_Ten Channels_** in a image.
++ The **_Strengths and Weaknesses_** of CMYK, LAB and RGB, and when to use each one.
 + Sharpening strategies.
 
 ---
@@ -68,6 +68,9 @@ We have been confused if Dan Margulis's the **Three Serials** books really put i
 **_Recommendation_**: ⭐⭐⭐⭐⭐🌟
 
 **_Review_**:
+- **Dan Margulis's Books** are **Very Profound** and **Hard to Read**. If you decide to read, please be sure you have **Enough Time** and **Enough Patience**, them will **At Least** need you **A Second Read**.
+- The Book look like **_Integrated Apply_** with two other books ( "Professional Photoshop" & " Photoshop LAB Color" ), if you like **_RoamWonder_**, who read two other books and **_Unknow How To Use_** these technologies, maybe you should read the book and then **_Go Back to Read_** two other books. **_RoamWonder_** are so happy the author had published the book, otherwise, there will be long long time to understand two other books.
+- The Book had taught us **_A More Scientific Retouch Workflow_** than before and it is **_Easy to Learn_**.
 - **_RoamWonder_** are not very agree with the author when he talking about "ACR".
 
 ## Basic Information & Abstract
@@ -83,10 +86,10 @@ We have been confused if Dan Margulis's the **Three Serials** books really put i
 	+ Pages: 443 Pages
 
 **_Special Terms_**:
-+ PPW, **_P_**icture **_P_**ostcard **_W_**orkflow
-+ CB, **_C_**olor **_B_**oost
-+ MMM, the **_M_**odern **_M_**an from **_M_**ars
-+ H-K, **_H_**elmholtz - **_K_**ohlrausch: When the **_Gray_** color **Darker_**, the picture will be more **_Stereoscopic_**.
++ PPW, "**_P_**icture **_P_**ostcard **_W_**orkflow"
++ CB, "**_C_**olor **_B_**oost"
++ MMM, "**_M_**odern **_M_**an from **_M_**ars"
++ H-K, "**_H_**elmholtz - **_K_**ohlrausch": When the **_Gray_** color **_Darker_**, **_Some_** picture will be more **_Stereoscopic_**.
 + Bigger Hammer: Strength the **_contrast_** in **_Highlight & Shadow_**
 
 ## Meta Question
@@ -104,14 +107,14 @@ We have been confused if Dan Margulis's the **Three Serials** books really put i
 
 + Where to find **_Additions_**?
 >1. The **_Homepage_** of the book: <http://www.moderncolorworkflow.com/>.
->2. The **_PPW_** panel docs ( the **_PPW_** itself can download from homepage mentions above).
+>2. The **_PPW_** panel docs ( the **_PPW Itself & Docs_** can be downloaded from homepage mentions above ).
 >3. The **_PPW_** in Ledet Website: <http://www.ledet.com/margulis/ppw>
 
 + What is the book **_major focus in_** and what is the book **_apply to_**?
->1. The book is focus in how to quickly make picture beauty with automation ( in 1~5 minutes with the _PPW_ panel ).
+>1. The book is focus in how to quickly make picture beauty with automation ( in **_Average Three Minutes_** with the **_PPW_** panel ).
 >2. The book is focus in **_Global Retouch_**, not **_Local Retouch_**.
 >3. The book's **_Theory_** is apply to every picture, but **_PPW_** itself is best apply to these picture.
->>	1. Picture with full _Depth Of Field_.
+>>	1. Picture with **_full Depth Of Field_**.
 >>	2. Landscape, Postcard ( Means the human is **_Not the Subject_** in picture,in other word, **_PPW_** is not doing well in **_Portrait_**)
 
 + How the book is construct?
@@ -125,7 +128,14 @@ We have been confused if Dan Margulis's the **Three Serials** books really put i
 2. Some **_Evaluations_** of picture quality are **_Subjective_**, but some are **_Objective_**, it is **_Important_** to **_Distinguish_** them.
 	1. If all audiences unlike a effect, it is **_Objective_**.
 	2. If only some audiences unlike a effect, it is **_Subjective_**.
-3. All retouch methods are focus in extract **_Detail_** ( means **_Luminocity Information_** ) and make **_colorful_** (means **_Color Information_**) . Retouch can abstract as a **_Workflow_** and then divide into **_3 Main Steps_** **--->** **_Color - Luminocity - Color_**
+3. All retouch methods are focus in extract **_Detail_** ( means **_Luminocity Information_** ) and make **_colorful_** (means **_Color Information_**) . Retouch can abstract as a **_Workflow_** and then divide into **_3 Main Steps_** **--->** **_Color - Luminocity - Color_**.
+4. If you want retouch in **_Less Than One Minute_**, Just do **_Color Initalize_** and maybe **_Sharpen_**.
+5. If you have **_More Than Three Minutes_** and want get **_A Better Result_**, can do it in two different ways:
+	1. Retouch **_Very Carefully and Precise_**, but maybe **_Not Very Different_**.
+	2. Retouch and get **_Several Versions_** and then **_Bleeding_**.
+6. Some **_"Obviously Error"_** would destory **_Entire_** picture feeling.
+7. If there is **_Chromatic Aberration_**, Make sure it is **_Warn Color_** ( **_Yellow_** will **_Better_** than **_Red_**) .
+8. Values are **_More Credible_** than **_Eyes_**
 
 ## Generally Retouch Workflow
 One retouch job can be comprehended as a **"Retouch Workflow"**, and this workflow can be divide into some levels:
@@ -135,18 +145,24 @@ One retouch job can be comprehended as a **"Retouch Workflow"**, and this workfl
 3. _**Workflow Action**_: "Action" here is similar to PS's "Action". Both "Action" here and PS's "Action" is consist of some command, but "Action" here is a abstract conception which means "Action" here is beyond PS's "Action"
 
 ## PPW Workflow
-PPW's **"Decompositio Philosophy"** is process _**"Luminosity"**_ and _**"Color"**_ **separately** mostly through the time.
+PPW's **"Decomposition Philosophy"** is process _**"Luminosity"**_ and _**"Color"**_ **separately** through the time.
 
-
-1. **_Color Initalize_**: in _`RGB`_ mode
-    1. Color Correction：Make **_Supposed to Be Gray_** color be **_Gray_** or **_Obviously Wrong_** color fall into **_Right Value Range_**
-        - `Curve Adjustment Layer` in _`RGB`_ mode **--->** CH3
+1. **_Color Initalize_**: **_Mostly_** in _`RGB`_ mode, **_"10 Seconds Detect and All in 1 Minute"_** 
+    1. **Color Correction** ：Make **_"Supposed to Be Neutral"_** color be **_"Neutral"_** or **"_Supposed to Be Near-Neutral"_** to be **_"More Near-Neutral"_** or **_"Obviously Out of Range"_** color fall into **_Right Range_** ( See more in [Reference Color Values](#reference-color-values) below )
+        - `Curve Adjustment Layer` in _`RGB`_ mode[^color-correct-in-rgb] **--->** CH3
+			1. Make Three or Four **Reference Points** ( distribute from most light to most dark )
+			2. Add and Adjust `Curve Adjustment Layer` make these **Reference Points** to right ( Adjust in _`RGB`_ mode and evaluate with _`LAB`_ value )
+			3. Change the `Curve Adjustment Layer`'s **Bleeding Mode** from **_Normal_** to **_Color_**
 		- **_Complementary Color_** **--->** CH9
     4. Color Range Define
         - Define **"Black Point"** and **"White Point"** in _`RGB`_ mode **--->** CH3\&CH4
-2. **_Luminosity Allocate_**: in _`RGB`_ mode
+2. **_Luminosity Allocate_**: **_Mostly_** in _`RGB`_ mode
     1. Luminosity Reallocation:
         - Luminosity layer by `Channel Mix` (`Apply Image` or `Calculation`) **--->** CH4
+			1. `Duplicate` Layer and name it like **Layer_lum**
+			2. `Apply Image` to **Layer_lum** with **Good Luminosity Contrast Channel** in **_Normal_**
+			3. Adjust **Each Channel** in **Layer_lum**
+			4. Change the Layer's **Bleeding Mode** of **Layer_lum** from **_Normal_** to **_Luminocity_**
 		- Luminosity Curve by `Curve Adjustment Layer`
     3. Contrast Boost:
         - Luminosity Curve by `Curve Adjustment Layer` **--->** CH4
@@ -158,12 +174,12 @@ PPW's **"Decompositio Philosophy"** is process _**"Luminosity"**_ and _**"Color"
         - PPW `Darken Sky SC` and `Darken Sky B` **--->** CH8
     8. Extend Luminocity Range
         - `Screen` and `Multiply` **--->** CH12
-3. **_Color Artistic_**: in _`LAB`_ mode
-    1. ??
+3. **_Color Artistic_**: **_Mostly_** in _`LAB`_ mode
+    1. **_Neutral Color_**:
         - PPW `H-K` **--->** CH13
-    5. Skin Color Retouch
+    5. **_Skin Color Beautified_**
 		- PPW `Skin Desaturation` **--->** CH9
-    7. Color Boost
+    7. **_Color Boost_**
         - PPW `CB` **--->** CH5
         - PPW `MMM` **--->** CH6
     10. Define Color **"Black Point"** and **"White Point"**
@@ -181,13 +197,16 @@ PPW's **"Decompositio Philosophy"** is process _**"Luminosity"**_ and _**"Color"
 		- PPW `Sharpen old`
 5. **_Ending_** ( **_Optional_** ):
     1. Versions Blending: Versions blending maybe better than one version with long time retouch.
-        - Layer blending mode **--->** CH2
-		- Layer opacity
-		- Layer blend if
-		- Layer mask[^mask-with-opacity]: In **_Spatial_** reveal some part of one version the other part of other versions.
+        - **_"Layer Blending Mode"_** **--->** CH2
+		- **_"Global Layer Opacity"_**
+			- `Opacity`:
+			- `Blend If`:
+		- **_"Local Layer Opacity"_**
+			- `Layer Mask`: In **_Spatial_** reveal some part of one version the other part of other versions.
     8. Color Space match
         - Color transfer
-[^mask-with-opacity]: Actually, you should know mask will contain **_Opacity_** effect.
+
+[^color-correct-in-rgb]: Color correction **Adjust** in _`LAB`_ mode is not very **_Stable_** ( Little adjust may result heavy effort ), **But** should **Evaluate** with _`LAB`_ value ( in _`RGB`_ or _`CMYK`_ mode it has no rule to indicate whether a **_Non-Neutral_** color is right or wrong )
 
 ## PPW Action
 1. CB："Color Boost"
@@ -198,18 +217,15 @@ PPW's **"Decompositio Philosophy"** is process _**"Luminosity"**_ and _**"Color"
     3. Input：
     4. Process：
     5. Output：Darken **"Neutral"** or **"Near Neutral"** Color between 1/4 and middle color tone.
-6. RGB Curve[^not-in-lab]：
-    1. Input：Image with color shift which at least has one characters list below: ( The right color value can see the [Reference Standard Color Values](#reference-standard-color-values) )
-        1. Neutral color in nature. example: gray wall.
-        2. Impossible or ugly color in nature. example: sky with red color
-
-[^not-in-lab]: Color correction in _`RGB`_ mode
 
 ## ACR and PS
 
 
 # Reference Color Values
-|Name|Describe|Values|
+**X** means can be any value.
+
+|Name|Describe|Value Range|
 |--|--|--|
-|Asian Skin Tone||,rgb(213,172,129),cmyk(17%,32%,53%,3%)|
-|Sky||lab([X],[3,5],[-X,0])|
+|Skin Tone| **_"A"_** and **_"B"_** both are **_Positive_**, and **_"B"_** will be a little bigger than **_"A"_** ||
+|Green Plant| **_"A"_** is **_Negative_**, **_"B"_** is **_Positive_**, and the **_"Absolute Value"_** of **_"B"_** would be fall into \[1.5, 2.5\] times **_"A"_** | |
+|Sky| **_"B"_** is **_Negative_** , **_"A"_** is **_Near-Zero_** ( **_Mostly "Little Negative"_** ) |LAB([X,X],[-5,3],[-X,0])|
