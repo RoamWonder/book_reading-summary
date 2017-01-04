@@ -129,13 +129,14 @@ We have been confused if Dan Margulis's the **Three Serials** books really put i
 	1. If all audiences unlike a effect, it is **_Objective_**.
 	2. If only some audiences unlike a effect, it is **_Subjective_**.
 3. All retouch methods are focus in extract **_Detail_** ( means **_Luminocity Information_** ) and make **_colorful_** (means **_Color Information_**) . Retouch can abstract as a **_Workflow_** and then divide into **_3 Main Steps_** **--->** **_Color - Luminocity - Color_**.
-4. If you want retouch in **_Less Than One Minute_**, Just do **_Color Initalize_** and maybe **_Sharpen_**.
+4. If you want retouch in **_Less Than One Minute_**, Just do **_Color Initalize_** and maybe the other is **_Sharpen_**.
 5. If you have **_More Than Three Minutes_** and want get **_A Better Result_**, can do it in two different ways:
 	1. Retouch **_Very Carefully and Precise_**, but maybe **_Not Very Different_**.
 	2. Retouch and get **_Several Versions_** and then **_Bleeding_**.
 6. Some **_"Obviously Error"_** would destory **_Entire_** picture feeling.
 7. If there is **_Chromatic Aberration_**, Make sure it is **_Warn Color_** ( **_Yellow_** will **_Better_** than **_Red_**) .
-8. Values are **_More Credible_** than **_Eyes_**
+8. Values are **_More Credible_** than **_Eyes_**.
+9. When picture some part under suneshine and some part at the shadow, there would have different color temperatures, human eyes can adjust, but camera can only has one temperatures, this means must have some compromise when doing **_"Color Correction"_**.
 
 ## Generally Retouch Workflow
 One retouch job can be comprehended as a **"Retouch Workflow"**, and this workflow can be divide into some levels:
@@ -147,24 +148,24 @@ One retouch job can be comprehended as a **"Retouch Workflow"**, and this workfl
 ## PPW Workflow
 PPW's **"Decomposition Philosophy"** is process _**"Luminosity"**_ and _**"Color"**_ **separately** through the time.
 
-1. **_Color Initalize_**: **_Mostly_** in _`RGB`_ mode, **_"10 Seconds Detect and All in 1 Minute"_** 
-    1. **Color Correction** ：Make **_"Supposed to Be Neutral"_** color be **_"Neutral"_** or **"_Supposed to Be Near-Neutral"_** to be **_"More Near-Neutral"_** or **_"Obviously Out of Range"_** color fall into **_Right Range_** ( See more in [Reference Color Values](#reference-color-values) below )
-        - `Curve Adjustment Layer` in _`RGB`_ mode[^color-correct-in-rgb] **--->** CH3
-			1. Make Three or Four **Reference Points** ( distribute from most light to most dark )
-			2. Add and Adjust `Curve Adjustment Layer` make these **Reference Points** to right ( Adjust in _`RGB`_ mode and evaluate with _`LAB`_ value )
+1. **_Color Initalize_**: **_Mostly_** in _`RGB`_ mode: **_"10 Seconds Detect and All in 1 Minute"_**
+    1. **Color Correction** ：Let **_"Supposed to Be Neutral"_** color be **_"Neutral"_** or **"_Supposed to Be Near-Neutral"_** to be **_"More Near-Neutral"_** or **_"Obviously Out of Range"_** color fall into **_Right Range_** ( See more in [Reference Color Values](#reference-color-values) below )
+        - PS `Curve Adjustment Layer` in _`RGB`_ mode[^color-correct-in-rgb] **--->** CH3
+			1. Make Three or Four **Reference Points ( Not the Curve Anchor )** ( distribute from most light to most dark. Usually are **_Meaningful White_**, **_Middle_**, **_Meaningful Black_** and one other **_Meaningful Point_** , And How to Make it right? See detail in the book and "Professional Photoshop")
+			2. Add and Adjust `Curve Adjustment Layer` make these **Reference Points** to right ( Adjust in _`RGB`_ mode and evaluate with _`LAB`_ value, Usually do **_Not Too Cliffy_** )
 			3. Change the `Curve Adjustment Layer`'s **Bleeding Mode** from **_Normal_** to **_Color_**
 		- **_Complementary Color_** **--->** CH9
-    4. Color Range Define
-        - Define **"Black Point"** and **"White Point"** in _`RGB`_ mode **--->** CH3\&CH4
-2. **_Luminosity Allocate_**: **_Mostly_** in _`RGB`_ mode
-    1. Luminosity Reallocation:
-        - Luminosity layer by `Channel Mix` (`Apply Image` or `Calculation`) **--->** CH4
+2. **_Luminosity Allocate_**: **_Mostly_** in _`RGB`_ mode: Attempt make a **_Black Version_** which is better than the **_Original_**, and then make the **_Bleeding Mode_** be **_Luminosity_**
+    1. Luminosity "Range Define" & Reallocation:
+        - PS **_"Luminosity layer"_** use `Channel Mix` (`Apply Image` or `Calculation`) **--->** CH4
 			1. `Duplicate` Layer and name it like **Layer_lum**
 			2. `Apply Image` to **Layer_lum** with **Good Luminosity Contrast Channel** in **_Normal_**
 			3. Adjust **Each Channel** in **Layer_lum**
 			4. Change the Layer's **Bleeding Mode** of **Layer_lum** from **_Normal_** to **_Luminocity_**
 		- Luminosity Curve by `Curve Adjustment Layer`
-    3. Contrast Boost:
+	2. Range Define
+	        - Define **"Black Point"** and **"White Point"** in _`RGB`_ mode **--->** CH3\&CH4
+	3. Contrast Boost:
         - Luminosity Curve by `Curve Adjustment Layer` **--->** CH4
     5. Extract Detail from **_Shadow & Highlight_**
         - PS `Shadows/Hightlights`
@@ -172,6 +173,7 @@ PPW's **"Decomposition Philosophy"** is process _**"Luminosity"**_ and _**"Color
         - PPW `Bigger Hammer` **--->** CH10
     7. Strengthen Specific Things
         - PPW `Darken Sky SC` and `Darken Sky B` **--->** CH8
+		- PPW `False Profile` **--->** CH11 & CH12
     8. Extend Luminocity Range
         - `Screen` and `Multiply` **--->** CH12
 3. **_Color Artistic_**: **_Mostly_** in _`LAB`_ mode
@@ -226,6 +228,6 @@ PPW's **"Decomposition Philosophy"** is process _**"Luminosity"**_ and _**"Color
 
 |Name|Describe|Value Range|
 |--|--|--|
-|Skin Tone| **_"A"_** and **_"B"_** both are **_Positive_**, and **_"B"_** will be a little bigger than **_"A"_** ||
+|Skin Tone| **_"A"_** and **_"B"_** both are **_Positive_**. Usually, **_"B"_** is bigger than **_"A"_** ( **Child and White people**'s **_"B"_** maybe smaller than **_"A"_**, but **_A_** too high will make the picture look like purple )||
 |Green Plant| **_"A"_** is **_Negative_**, **_"B"_** is **_Positive_**, and the **_"Absolute Value"_** of **_"B"_** would be fall into \[1.5, 2.5\] times **_"A"_** | |
 |Sky| **_"B"_** is **_Negative_** , **_"A"_** is **_Near-Zero_** ( **_Mostly "Little Negative"_** ) |LAB([X,X],[-5,3],[-X,0])|

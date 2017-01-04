@@ -2,7 +2,7 @@
 ## Who are **_RoamWonder_**?
 >**_RoamWonder_** ( the Short of **_"Roaming in Wonderland"_** ) is the pseudonym of a couple who living in Guangzhou, China.
 >
->**_RoamWonder_** are **_Independent Photograhers_**, **_Typesetters_**, and **_Programers_**😊.
+>**_RoamWonder_** are **_Independent Photographers_**, **_Typesetters_**, and **_Programers_**😊.
 >
 >We hope no matter what we are doing can give us and others the feeling of **_"Roaming in Wonderland"_**  ( In other words, We want to make jobs perfect ).
 >
